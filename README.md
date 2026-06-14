@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hello, my name is Jochebed Kpapko
 
-<!--
-**Jochebed-Kpakpo/Jochebed-Kpakpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Sustainability Researcher | Energy & Climate Analytics | Petrochemical Engineer**
 
-Here are some ideas to get you started:
+I am passionate about applying data-driven approaches to climate action, renewable and green energy, and sustainable development across Africa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+* Climate and Energy Policy
+* Sustainability Analytics
+* Renewable Energy Systems
+* Waste-to-Energy Technologies
+* Environmental Data Science
+* Climate Justice and Sustainable Development
+
+## Technical Skills
+
+* Python (Pandas, NumPy)
+* SQL
+* Power BI
+* Excel (Microsift, Google)
+* Aspen Plus
+* MATLAB Simulink
+
+## Current Research
+
+* Hybrid AI-Mechanistic Models for Methane Yield Prediction in Anaerobic Digestion
+* Waste-to-Energy Systems
+* Carbon Capture and Utilization
+* Environmental Data Analytics
+
+## Publications
+
+**Electrocution in the Construction Industry: A Systematic Review**
+Published in Discover Public Health (2026)
+
+## Connect With Me
+
+📍 Accra, Ghana
+📧 [addoleyjochebed@gmail.com](mailto:addoleyjochebed@gmail.com)
+🔗 LinkedIn
